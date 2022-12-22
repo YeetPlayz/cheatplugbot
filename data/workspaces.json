@@ -1,0 +1,329 @@
+[
+    {
+        "info": {
+            "title": "Tarkov Acc",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [],
+        "notes": []
+    },
+    {
+        "info": {
+            "title": "status",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 689,
+                    "y": 435,
+                    "z": 1,
+                    "color": "#5a5a5a",
+                    "height": 241.6,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "LQxSpSHVwa",
+                    "channel": "PH20A41bFZ",
+                    "text": "bxYxcheCAF",
+                    "embed": "VOet4QLZHD",
+                    "attachment": "vJG4YoxWih",
+                    "split_message": "LQxpSHicMU"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 324,
+                    "y": 0,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 527.2,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "u93RFKtnKX",
+                    "color": "DWWdAT4hKu",
+                    "thumbnail": "eXXqWrhDZy",
+                    "author_icon": "ERtp3zrSpP",
+                    "author_name": "0h8RiAEjHN",
+                    "author_url": "U9sWa1il3v",
+                    "title": "GZgUWV0J3t",
+                    "url": "p946Yn0rMi",
+                    "description": "h2VkTTl3sm",
+                    "image": "3aTA4UbpWO",
+                    "footer_icon": "2R6Ank3AX3",
+                    "footer_text": "Zqyk9iP5si",
+                    "timestamp": "4XVK0dOwwg"
+                },
+                "outputs": {
+                    "action": [
+                        "LQxSpSHVwa"
+                    ],
+                    "message_embed": [
+                        "VOet4QLZHD"
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "info": {
+                    "x": 0,
+                    "y": 465,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 106.4,
+                    "width": 192
+                },
+                "options": {
+                    "color": "#ff00ff"
+                },
+                "outputs": {
+                    "color": [
+                        "DWWdAT4hKu"
+                    ]
+                }
+            },
+            {
+                "name": "command_event_with_text",
+                "info": {
+                    "x": 678,
+                    "y": 8,
+                    "z": 4,
+                    "color": "#5a5a5a",
+                    "height": 402.4,
+                    "width": 758
+                },
+                "inputs": {
+                    "command_slowmode": "Bp0UrRAofH"
+                },
+                "options": {
+                    "command_name": "status",
+                    "custom_prefix": "",
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "u93RFKtnKX"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "server": [],
+                    "channel": [
+                        "PH20A41bFZ"
+                    ],
+                    "vc": [],
+                    "user": [],
+                    "member": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 5,
+                    "color": "#5a5a5a",
+                    "height": 460,
+                    "width": 319
+                },
+                "options": {
+                    "text1": "https://media.discordapp.net/attachments/1003172507337109584/1013317220450979881/standard.gif",
+                    "text2": "Service Status",
+                    "text3": "---For Cheats---\n🟢 Working\n🟡 Updating\n🔴 Detected\n---For Accs---\n🟢 Availabe\n🟡 Away\n🔴 Offline",
+                    "text4": "",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "eXXqWrhDZy"
+                    ],
+                    "text2": [
+                        "GZgUWV0J3t"
+                    ],
+                    "text3": [
+                        "h2VkTTl3sm"
+                    ],
+                    "text4": [],
+                    "text5": [],
+                    "text6": []
+                }
+            }
+        ],
+        "notes": []
+    },
+    {
+        "info": {
+            "title": "Abs ",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 789,
+                    "y": 361,
+                    "z": 1,
+                    "color": "#5a5a5a",
+                    "height": 527.2,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "o7Z6FmWugd",
+                    "color": "Hy00p3Rsuj",
+                    "thumbnail": "vWF08M2z1V",
+                    "author_icon": "Mzyj4bnG8L",
+                    "author_name": "jgYG7ToCRo",
+                    "author_url": "HQ5uKZiTnP",
+                    "title": "3LeEL9a6qv",
+                    "url": "YoXg9Ubziz",
+                    "description": "IzsbtIcqKT",
+                    "image": "nIkbjMxuOW",
+                    "footer_icon": "fiMS9AEs5X",
+                    "footer_text": "SX3VPvBs5f",
+                    "timestamp": "F6P3uuQUgG"
+                },
+                "outputs": {
+                    "action": [
+                        "wvoSkyWTa7"
+                    ],
+                    "message_embed": [
+                        "75NN3cBKgd"
+                    ]
+                },
+                "options": {}
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 452,
+                    "y": 369,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 460,
+                    "width": 319
+                },
+                "options": {
+                    "text1": "https://media.discordapp.net/attachments/927239297667592192/1055405833728561222/static.png",
+                    "text2": "ABS Terragroup",
+                    "text3": "https://images-ext-2.discordapp.net/external/Y70J6kE4_s6PLW7vtkz11fbeSxBclM7H12IgRuqFYDk/%3Fwidth%3D1193%26height%3D671/https/images-ext-1.discordapp.net/external/CQ1Hqy7207PTizKcpOPahppVRpiIqZoZyypo7_rGtP8/https/cdn8112.templcdn.com/wp-content/uploads/2022/05/EscapefromTarkov-1.jpg?width=1089&height=612",
+                    "text4": "✦ AimLock - Locks onto enemy model.\n✦ BulletTrack - Bullets hit head.\n✦ Target Lock - Locks onto specific enemy\nESP\n✦ PLAYER ESP\n✦ Player ESP - Show players.\n✦ Name ESP - Show player names.\n✦ 2D Box - Frames around players.\n✦ Grenade ESP - Show thrown grenades.\n✦ Skeleton - Draw skeleton.\n✦ Show Health.\n✦ Distance ESP - Show distance.\n✦ Show Friendly - Show teammates.\n✦ Smart Visibility - Know if someone is aiming at you.\nLOOT ESP\n✦ Show loot.\n✦ Set max show distance.\n✦ Show Containers.\n✦ Show Exits.\n✦ Show all container items.\n✦ Customize what items to see - dedicated website.\nITEM FILTER\n✦ Show/Hide items by category.\n✦ Hide empty containers.\n✦ Customize through website\nMISC\n✦ Infinite Stamina\n✦ Radar\n✦ Night Vision\n✦ Thermal Vision\n✦ Remove Visor\n✦ Landmines\n✦ Sniper\n✦ Danger Warning - Tells you closest player\n✦ Crosshair\nREQUIREMENTS\n✦ CPU: Intel / AMD;\n✦ OS: Windows 10 - Windows 11\n✦ Comes with built in spoofer\nPRICE\n✦ Day : $8.50",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "vWF08M2z1V"
+                    ],
+                    "text2": [
+                        "3LeEL9a6qv"
+                    ],
+                    "text3": [
+                        "nIkbjMxuOW"
+                    ],
+                    "text4": [
+                        "IzsbtIcqKT"
+                    ],
+                    "text5": [],
+                    "text6": []
+                },
+                "inputs": {}
+            },
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 446,
+                    "y": 111,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 241.6,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "wvoSkyWTa7",
+                    "channel": "ZetgmfLhbZ",
+                    "text": "3z4anVaosy",
+                    "embed": "75NN3cBKgd",
+                    "attachment": "wBGMm3XBFl",
+                    "split_message": "Tgs6j0TUcE"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                },
+                "options": {}
+            },
+            {
+                "name": "command_event_with_text",
+                "info": {
+                    "x": 775,
+                    "y": 0,
+                    "z": 4,
+                    "color": "#5a5a5a",
+                    "height": 402.4,
+                    "width": 758
+                },
+                "inputs": {
+                    "command_slowmode": "OoQnQnH6li"
+                },
+                "options": {
+                    "command_name": "abs",
+                    "custom_prefix": "",
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "o7Z6FmWugd"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "server": [],
+                    "channel": [
+                        "ZetgmfLhbZ"
+                    ],
+                    "vc": [],
+                    "user": [],
+                    "member": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "color",
+                "info": {
+                    "x": 1361,
+                    "y": 576,
+                    "z": 10,
+                    "color": "#5a5a5a",
+                    "height": 106.4,
+                    "width": 192
+                },
+                "options": {
+                    "color": "#ff00ff"
+                },
+                "outputs": {
+                    "color": [
+                        "Hy00p3Rsuj"
+                    ]
+                },
+                "inputs": {}
+            }
+        ],
+        "notes": []
+    }
+]
